@@ -3,7 +3,6 @@ conway-sequence
 
 ...recursion!
 
-
 1
 11
 21
