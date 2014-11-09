@@ -3,7 +3,7 @@ conway-sequence
 
 ...recursion!
 
-1
+1 <br>
 11
 21
 1211
